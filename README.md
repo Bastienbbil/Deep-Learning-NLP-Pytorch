@@ -7,6 +7,6 @@ In this project we focus on fake news and their significant impact on various as
 References
 
 1) S. Saad, H. Ahmed, I. Traore. 2018.  _Detecting opinion spams and fake news using text classification_. Journal of Security and Privacy, Volume 1, Issue 1.B. 
-2) 2) Kleinberg, A. Lefevre, N. Mihalcea, V. Perez-Rosas.2018. _Fake  news  detector  algorithm  works  betterthan  a  human_. 27th  International  Conference  on Computational Linguistics.
+2) Kleinberg, A. Lefevre, N. Mihalcea, V. Perez-Rosas.2018. _Fake  news  detector  algorithm  works  betterthan  a  human_. 27th  International  Conference  on Computational Linguistics.
 3) E. Andrews. 2019.  _How fake news spreads like a realvirus_. Stanford Engineering Magazine.
 4) J.  Carrie  Wong.  2020.   _Russian  agency  created  fakeleftwing  news  outlet  with  fictional  editors_.TheGuardian UK.
